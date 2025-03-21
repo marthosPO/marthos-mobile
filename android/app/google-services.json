@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4060138181",
+    "project_id": "marthos-po",
+    "storage_bucket": "marthos-po.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4060138181:android:9f02b5fcd11e1696cb3eac",
+        "android_client_info": {
+          "package_name": "com.marthos.marthos_po"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4060138181-qntc9qv02fkfl5cjeorf6boq86vati3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYUxDTAeLFJBfPASrCs2hPTeXwbPZZcxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4060138181-qntc9qv02fkfl5cjeorf6boq86vati3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
